@@ -187,6 +187,10 @@ img {
     overflow: hidden;
   }
 
+  body {
+    animation: mymove 1s;
+  }
+
   h1 {
     letter-spacing: 0;
   }
